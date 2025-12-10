@@ -1,2 +1,2 @@
-# Cardiovascular-Disease-Prediction
-A Machine Learning–based Cardiovascular Disease Prediction System with a Tkinter GUI using Random Forest and Kaggle dataset.
+This project is a desktop-based Machine Learning application that predicts the risk of cardiovascular disease using real patient health data from the Kaggle dataset. It uses a Random Forest Classifier for accurate prediction and a Tkinter-based GUI for easy user interaction.
+The system allows users to enter health parameters such as age, gender, height, weight, blood pressure, cholesterol, glucose level, smoking habits, alcohol intake, and physical activity. After processing the input, the trained ML model predicts whether the user is at high risk of cardiovascular disease.
